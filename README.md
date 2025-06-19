@@ -57,5 +57,5 @@ This tool provides **approximate** nutritional estimates and should not be used 
 
 ## 📬 Contact
 
-Made with ❤️ by [Your Name](https://www.linkedin.com/in/your-profile)  
+Made by [Venkata Anirudh Parakala](https://www.linkedin.com/in/anirudh-parakala/))  
 Contributions and feedback welcome!
