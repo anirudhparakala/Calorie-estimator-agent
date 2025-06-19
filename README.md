@@ -7,13 +7,13 @@ Upload a meal photo — the AI behaves like a smart assistant: it reasons, ident
 
 ## 📍 Live Demo
 
-🔗 [Try it on Streamlit](https://your-app-url.streamlit.app) *(Replace with your actual URL)*
+🔗 [Try it on Streamlit]([https://calorie-estimator-agent.streamlit.app/])
 
 ---
 
 ## 📸 Demo
 
-![demo](demo_screenshot.png)  
+![demo](demo.png)  
 ![biriyani](biriyani.png)
 
 ---
